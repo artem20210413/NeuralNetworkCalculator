@@ -7,8 +7,8 @@ using System.Diagnostics.CodeAnalysis;
 using System.ComponentModel;
 
 
-Start:
 Neuron neuron = new Neuron();
+Start:
 
 if (neuron.isFail)
 {
@@ -17,7 +17,7 @@ if (neuron.isFail)
 else
 {
     Console.WriteLine("Виды конверторов");
-    Console.WriteLine($"0: создатьновый");
+    Console.WriteLine($"0: создать новый");
     neuron.showInhoFail();
     Console.WriteLine("Выберите конвертор:");
     int i = Convert.ToInt32(Console.ReadLine());
@@ -34,7 +34,7 @@ decimal input = Convert.ToDecimal(Console.ReadLine());
 Console.WriteLine($"Ответ: {neuron.ProcessInputData(input)}");
 
 Console.WriteLine("Чтоб ввести еще одно число нажмите Enter, чтобы выйти напишите  end");
-if(Console.ReadLine() == "")
+if(Console.ReadLine() != "end")
 {
     goto Back;
 }
