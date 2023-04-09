@@ -1,0 +1,15 @@
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\bin\Debug\net6.0\calculator_neural_network.exe
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\bin\Debug\net6.0\calculator_neural_network.deps.json
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\bin\Debug\net6.0\calculator_neural_network.runtimeconfig.json
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\bin\Debug\net6.0\calculator_neural_network.dll
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\bin\Debug\net6.0\calculator_neural_network.pdb
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.csproj.AssemblyReference.cache
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.GeneratedMSBuildEditorConfig.editorconfig
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.AssemblyInfoInputs.cache
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.AssemblyInfo.cs
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.csproj.CoreCompileInputs.cache
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.dll
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\refint\calculator_neural_network.dll
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.pdb
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\calculator_neural_network.genruntimeconfig.cache
+D:\!№№№№№    Учеба   №№№№№\Магистр\Диплом\calculator_neural_network\calculator_neural_network\obj\Debug\net6.0\ref\calculator_neural_network.dll
